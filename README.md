@@ -58,3 +58,7 @@ Once the application is running, follow these steps:
 ## Support
 
 If you encounter any issues or have questions about the setup, feel free to ping me.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
