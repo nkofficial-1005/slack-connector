@@ -46,7 +46,7 @@ def pre_install():
         return redirect(url_for('index'))
     state = ['your_state_value']
     session['state'] = state
-    redirect_uri = "your_app_url/slack/callback"
+    redirect_uri = "your_xyz_app_url/slack/callback"
     scopes = ['chat:write', 'chat:write.customize', 'files:read', 'files:write',
               'links.embed:write', 'links:read', 'links:write', 'channels:read',
               'remote_files:read', 'remote_files:share', 'remote_files:write', 'groups:read']
